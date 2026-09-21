@@ -8,7 +8,7 @@ Use the repository `satyam7475.github.io` and keep these files in the repository
 - `index.html`
 - `styles.css`
 - `script.js`
-- `satyam-profile.jpg`
+- `satyam-portrait.jpg`
 - `Satyam_Yadav_Resume.pdf`
 - `social-preview.svg`
 
